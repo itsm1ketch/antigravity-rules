@@ -2,6 +2,7 @@
 
 This repository contains the core collection of Cursor rules powering [antigravity.directory](https://antigravity.directory). 
 
+
 ![Antigravity Directory Home](./assets/home-preview.png)
 
 These rules are designed to help developers configure their AI code editors (like Cursor) with best practices, framework-specific guidelines, and expert patterns.
