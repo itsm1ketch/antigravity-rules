@@ -2,11 +2,17 @@
 
 This repository contains the core collection of Cursor rules powering [antigravity.directory](https://antigravity.directory). 
 
+![Antigravity Directory Home](./assets/home-preview.png)
+
 These rules are designed to help developers configure their AI code editors (like Cursor) with best practices, framework-specific guidelines, and expert patterns.
 
 ## Where are these rules used?
 
-All rules defined in this package are automatically published and made searchable on **[antigravity.directory](https://antigravity.directory)**. Users can browse, copy, or install these rules directly into their `.cursorrules` file.
+All rules defined in this package are automatically published and made searchable on **[antigravity.directory](https://antigravity.directory)**.
+
+![Antigravity Rules List](./assets/rules-preview.png)
+
+Users can browse, copy, or install these rules directly into their `.cursorrules` file.
 
 ## How to Contribute
 
